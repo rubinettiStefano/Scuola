@@ -13,7 +13,7 @@ package com.generation.entities;
  *
  *
  */
-public class Marks
+public class Mark
 {
 
 	/**
